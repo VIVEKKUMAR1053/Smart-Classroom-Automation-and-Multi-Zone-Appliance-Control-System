@@ -1,0 +1,2 @@
+# Smart-Classroom-Automation-and-Multi-Zone-Appliance-Control-System
+IoT-based Smart Classroom Automation and Multi-Zone Appliance Control System designed to intelligently manage lights, fans, and electrical appliances across multiple classroom zones. The system enhances energy efficiency, reduces power consumption, enables automated device control, and improves classroom management through embedded systems 
